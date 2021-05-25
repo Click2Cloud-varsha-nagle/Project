@@ -10,6 +10,7 @@ for i in range(0,num):
     print("\r")
     
 #Q.2 Write a python program to read a file and display no. of consonants, vowels, number, special character and white spaces from file content on screen.
+#I work with user input details and calculate the specification
 content = input("Enter The Contents:"'\n')
 vowels = 0
 consonants = 0
