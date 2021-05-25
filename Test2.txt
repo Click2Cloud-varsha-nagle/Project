@@ -1,0 +1,3 @@
+#this is 1st comment after creating this file and below some contents
+'''I am doin this command with Pycharm IDE'''
+
