@@ -1,3 +1,4 @@
 #this is 1st comment after creating this file and below some contents
-'''I am doin this command with Pycharm IDE'''
+'''I am doing this command with Pycharm IDE'''
+#this is the edit from UI side
 
