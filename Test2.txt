@@ -2,5 +2,3 @@
 '''I am doing this command with Pycharm IDE'''
 #this is the edit from UI side
 
-Date: 26.05.2021
-I think I am don with Git Issue
